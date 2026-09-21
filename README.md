@@ -3,6 +3,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%2B-orange)](https://www.mathworks.com/)
 
 a pump selection algorithm based on catalog provided was developed as my fluid mechanics 1 course project.
+also pump properties for several pumps and working flow rates are caculated in matlab  
 
 ## Features
 
